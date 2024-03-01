@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩🏻‍💻 Currently work in [ColossalAI](https://www.colossalai.org/) as AI Algorithm Engineer and welcome to 🌟 our [repo](https://github.com/hpcaitech/ColossalAI).
+- 👩🏻‍💻 Currently work in [HPC-AI Tech](https://www.colossalai.org/) as AI Algorithm Engineer and welcome to 🌟 our [ColossalAI](https://github.com/hpcaitech/ColossalAI).
 - 🛠️ Technical skills: C++, Python(now mainly used), Linux, C#, Unity, Unreal4 & Maya.
 - 🐣 Learning LLM, Multimodality, Japanese and anything I'm interested in.
 - 🎮 Once developed games and been a ComputVis trainee for 1 Kun-year.
