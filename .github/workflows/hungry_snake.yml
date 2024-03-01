@@ -5,10 +5,6 @@ on:
     - cron: "*/25 * * * *"
   workflow_dispatch:
 
-  push:
-      branches:
-      - master
-
 jobs:
   generate:
     permissions: 
@@ -24,8 +20,8 @@ jobs:
           github_user_name: Camille7777
           svg_out_path: dist/github-contribution-grid-snake.svg
           outputs: |
-              github-snake.svg?palette=github-light
-              github-snake-dark.svg?palette=github-dark
+              dist/github-snake.svg?palette=github-light
+              dist/github-snake-dark.svg?palette=github-dark
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
