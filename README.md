@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Camille7777/Camille7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏻‍💻 Currently work in [ColossalAI](https://www.colossalai.org/) as AI Algorithm Engineer and welcome to 🌟 our [repo](https://github.com/hpcaitech/ColossalAI).
+- 🛠️ Technical skills: C++, Python(now mainly used), Linux, C#, Unity, Unreal4 & Maya.
+- 🐣 Learning LLM, Multimodality, Japanese and anything I'm interested in.
+- 🎮 Once developed games and been a ComputVis trainee for 1 Kun-year.
+- 🏫 Graduated from XMUM and NUS.
+- ♾️ Hobbies depend on my mood.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Camille7777&count_private=true&show_icons=true&theme=onedark" />&emsp;<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camille7777&layout=compact&theme=onedark" />
+
+
+![](https://raw.githubusercontent.com/Camille7777/Camille7777/feat/snake/github-contribution-grid-snake.svg)
