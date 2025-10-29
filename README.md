@@ -8,7 +8,7 @@
 - ♾️ Hobbies depend on my mood.
 
 
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Camille7777&count_private=true&show_icons=true&theme=onedark" />&emsp;<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camille7777&layout=compact&theme=onedark" />
+<!-- <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Camille7777&count_private=true&show_icons=true&theme=onedark" />&emsp;<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camille7777&layout=compact&theme=onedark" />
 
 
-![](https://raw.githubusercontent.com/Camille7777/Camille7777/feat/snake/github-snake-dark.svg)
+![](https://raw.githubusercontent.com/Camille7777/Camille7777/feat/snake/github-snake-dark.svg) -->
